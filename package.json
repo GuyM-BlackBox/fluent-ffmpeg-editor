@@ -1,0 +1,15 @@
+{
+  "name": "videoeditor-ffmpeg",
+  "version": "1.0.0",
+  "description": "a simple video editor using ffmpeg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Guy Maalouf",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
